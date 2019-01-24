@@ -1,0 +1,19 @@
+{
+  "name": "redux-lecture-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inex.js",
+  "scripts": {
+    "build": "npx webpack --mode=development",
+    "watch": "npx webpack -w --mode=development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.1",
+    "webpack": "^4.29.0",
+    "webpack-cli": "^3.2.1"
+  }
+}
